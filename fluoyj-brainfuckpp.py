@@ -4,7 +4,7 @@ import time
     Brainfuck++ est une amélioration du langage Brainfuck complétement déjanté et inutilisable.
     Ce programme est réalisé selon les contraintes d'un concours interdisant l'utilisation des fonctions déjà presente en python.
     Le bf++ rajoute des fonctions ("{}" et "*") ainsi que de nouvelles sorties dans la console.
-    Ce programme n'est surement pas optimiser mais chut. 
+    Ce programme n'est surement pas optimisé mais chut. 
     Toutes les écritures ne comprenant pas de symboles utilisées par le bf++ sont des commentaires.
     Par Fluo.YJ#5249
 """
